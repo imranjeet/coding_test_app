@@ -1,0 +1,23 @@
+[
+    {"id": 1, "statement": "Write a function that returns the factorial of a given number."},
+    {"id": 2, "statement": "Write a function to check if a given number is prime."},
+    {"id": 3, "statement": "Write a function to reverse a string."},
+    {"id": 4, "statement": "Write a program to find the sum of all elements in a list."},
+    {"id": 5, "statement": "Write a function to check if a string is a palindrome."},
+    {"id": 6, "statement": "Write a program to find the largest element in a list."},
+    {"id": 7, "statement": "Write a function to calculate the Fibonacci sequence."},
+    {"id": 8, "statement": "Write a program to sort a list of elements using the bubble sort algorithm."},
+    {"id": 9, "statement": "Write a function to count the number of occurrences of a character in a string."},
+    {"id": 10, "statement": "Write a program to generate the Fibonacci sequence up to a certain number of terms."},
+    {"id": 11, "statement": "Write a function to calculate the factorial of a given number using recursion."},
+    {"id": 12, "statement": "Write a program to find the factorial of a large number using BigInteger in Python."},
+    {"id": 13, "statement": "Write a program to implement binary search."},
+    {"id": 14, "statement": "Write a program to find the GCD (Greatest Common Divisor) of two numbers."},
+    {"id": 15, "statement": "Write a function to check if a given number is a perfect number."},
+    {"id": 16, "statement": "Write a program to find the roots of a quadratic equation."},
+    {"id": 17, "statement": "Write a function to generate all possible permutations of a list."},
+    {"id": 18, "statement": "Write a program to implement selection sort."},
+    {"id": 19, "statement": "Write a program to implement insertion sort."},
+    {"id": 20, "statement": "Write a program to implement merge sort."}
+  ]
+  
